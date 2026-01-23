@@ -3,7 +3,7 @@ body {
   color: #000;
   margin: 0; /* keeps your items stacked vertically */
   text-align: center;
-  font-family: sans-serif;  
+  font-family: Verdana, Geneva, Tahoma, sans-serif;  
   padding: 2rem;  /* keeps text centered too */
 }
 
@@ -13,6 +13,7 @@ body {
 }
 
 #title {
+  font-family: 'Courier New', Courier, monospace
   font-size: 3rem;
   margin-bottom: 0%;
 }
